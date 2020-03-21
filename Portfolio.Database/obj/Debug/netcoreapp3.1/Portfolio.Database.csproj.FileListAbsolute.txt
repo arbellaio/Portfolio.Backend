@@ -1,0 +1,22 @@
+E:\Personal Projects\Porta\Portfolio.Database\bin\Debug\netcoreapp3.1\Portfolio.Database.deps.json
+E:\Personal Projects\Porta\Portfolio.Database\bin\Debug\netcoreapp3.1\Portfolio.Database.dll
+E:\Personal Projects\Porta\Portfolio.Database\bin\Debug\netcoreapp3.1\Portfolio.Database.pdb
+E:\Personal Projects\Porta\Portfolio.Database\bin\Debug\netcoreapp3.1\Portfolio.Models.dll
+E:\Personal Projects\Porta\Portfolio.Database\bin\Debug\netcoreapp3.1\Portfolio.Models.pdb
+E:\Personal Projects\Porta\Portfolio.Database\obj\Debug\netcoreapp3.1\Portfolio.Database.csprojAssemblyReference.cache
+E:\Personal Projects\Porta\Portfolio.Database\obj\Debug\netcoreapp3.1\Portfolio.Database.AssemblyInfoInputs.cache
+E:\Personal Projects\Porta\Portfolio.Database\obj\Debug\netcoreapp3.1\Portfolio.Database.AssemblyInfo.cs
+E:\Personal Projects\Porta\Portfolio.Database\obj\Debug\netcoreapp3.1\Portfolio.Database.csproj.CopyComplete
+E:\Personal Projects\Porta\Portfolio.Database\obj\Debug\netcoreapp3.1\Portfolio.Database.dll
+E:\Personal Projects\Porta\Portfolio.Database\obj\Debug\netcoreapp3.1\Portfolio.Database.pdb
+E:\Personal Projects\My Website\Portfolio.Backend\Portfolio.Database\bin\Debug\netcoreapp3.1\Portfolio.Database.deps.json
+E:\Personal Projects\My Website\Portfolio.Backend\Portfolio.Database\bin\Debug\netcoreapp3.1\Portfolio.Database.dll
+E:\Personal Projects\My Website\Portfolio.Backend\Portfolio.Database\bin\Debug\netcoreapp3.1\Portfolio.Database.pdb
+E:\Personal Projects\My Website\Portfolio.Backend\Portfolio.Database\bin\Debug\netcoreapp3.1\Portfolio.Models.dll
+E:\Personal Projects\My Website\Portfolio.Backend\Portfolio.Database\bin\Debug\netcoreapp3.1\Portfolio.Models.pdb
+E:\Personal Projects\My Website\Portfolio.Backend\Portfolio.Database\obj\Debug\netcoreapp3.1\Portfolio.Database.csprojAssemblyReference.cache
+E:\Personal Projects\My Website\Portfolio.Backend\Portfolio.Database\obj\Debug\netcoreapp3.1\Portfolio.Database.AssemblyInfoInputs.cache
+E:\Personal Projects\My Website\Portfolio.Backend\Portfolio.Database\obj\Debug\netcoreapp3.1\Portfolio.Database.AssemblyInfo.cs
+E:\Personal Projects\My Website\Portfolio.Backend\Portfolio.Database\obj\Debug\netcoreapp3.1\Portfolio.Database.csproj.CopyComplete
+E:\Personal Projects\My Website\Portfolio.Backend\Portfolio.Database\obj\Debug\netcoreapp3.1\Portfolio.Database.dll
+E:\Personal Projects\My Website\Portfolio.Backend\Portfolio.Database\obj\Debug\netcoreapp3.1\Portfolio.Database.pdb

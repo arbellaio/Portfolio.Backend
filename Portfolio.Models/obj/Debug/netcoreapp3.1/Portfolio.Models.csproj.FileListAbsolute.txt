@@ -1,0 +1,16 @@
+E:\Personal Projects\Porta\Portfolio.Models\bin\Debug\netcoreapp3.1\Portfolio.Models.deps.json
+E:\Personal Projects\Porta\Portfolio.Models\bin\Debug\netcoreapp3.1\Portfolio.Models.dll
+E:\Personal Projects\Porta\Portfolio.Models\bin\Debug\netcoreapp3.1\Portfolio.Models.pdb
+E:\Personal Projects\Porta\Portfolio.Models\obj\Debug\netcoreapp3.1\Portfolio.Models.csprojAssemblyReference.cache
+E:\Personal Projects\Porta\Portfolio.Models\obj\Debug\netcoreapp3.1\Portfolio.Models.AssemblyInfoInputs.cache
+E:\Personal Projects\Porta\Portfolio.Models\obj\Debug\netcoreapp3.1\Portfolio.Models.AssemblyInfo.cs
+E:\Personal Projects\Porta\Portfolio.Models\obj\Debug\netcoreapp3.1\Portfolio.Models.dll
+E:\Personal Projects\Porta\Portfolio.Models\obj\Debug\netcoreapp3.1\Portfolio.Models.pdb
+E:\Personal Projects\My Website\Portfolio.Backend\Portfolio.Models\bin\Debug\netcoreapp3.1\Portfolio.Models.deps.json
+E:\Personal Projects\My Website\Portfolio.Backend\Portfolio.Models\bin\Debug\netcoreapp3.1\Portfolio.Models.dll
+E:\Personal Projects\My Website\Portfolio.Backend\Portfolio.Models\bin\Debug\netcoreapp3.1\Portfolio.Models.pdb
+E:\Personal Projects\My Website\Portfolio.Backend\Portfolio.Models\obj\Debug\netcoreapp3.1\Portfolio.Models.csprojAssemblyReference.cache
+E:\Personal Projects\My Website\Portfolio.Backend\Portfolio.Models\obj\Debug\netcoreapp3.1\Portfolio.Models.AssemblyInfoInputs.cache
+E:\Personal Projects\My Website\Portfolio.Backend\Portfolio.Models\obj\Debug\netcoreapp3.1\Portfolio.Models.AssemblyInfo.cs
+E:\Personal Projects\My Website\Portfolio.Backend\Portfolio.Models\obj\Debug\netcoreapp3.1\Portfolio.Models.dll
+E:\Personal Projects\My Website\Portfolio.Backend\Portfolio.Models\obj\Debug\netcoreapp3.1\Portfolio.Models.pdb

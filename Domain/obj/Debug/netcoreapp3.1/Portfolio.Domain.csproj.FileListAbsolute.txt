@@ -1,0 +1,13 @@
+E:\Personal Projects\My Website\Portfolio.Backend\Domain\bin\Debug\netcoreapp3.1\Portfolio.Domain.deps.json
+E:\Personal Projects\My Website\Portfolio.Backend\Domain\bin\Debug\netcoreapp3.1\Portfolio.Domain.dll
+E:\Personal Projects\My Website\Portfolio.Backend\Domain\bin\Debug\netcoreapp3.1\Portfolio.Domain.pdb
+E:\Personal Projects\My Website\Portfolio.Backend\Domain\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Personal Projects\My Website\Portfolio.Backend\Domain\bin\Debug\netcoreapp3.1\Portfolio.Models.dll
+E:\Personal Projects\My Website\Portfolio.Backend\Domain\bin\Debug\netcoreapp3.1\Portfolio.Models.pdb
+E:\Personal Projects\My Website\Portfolio.Backend\Domain\bin\Debug\netcoreapp3.1\Newtonsoft.Json.xml
+E:\Personal Projects\My Website\Portfolio.Backend\Domain\obj\Debug\netcoreapp3.1\Portfolio.Domain.csprojAssemblyReference.cache
+E:\Personal Projects\My Website\Portfolio.Backend\Domain\obj\Debug\netcoreapp3.1\Portfolio.Domain.AssemblyInfoInputs.cache
+E:\Personal Projects\My Website\Portfolio.Backend\Domain\obj\Debug\netcoreapp3.1\Portfolio.Domain.AssemblyInfo.cs
+E:\Personal Projects\My Website\Portfolio.Backend\Domain\obj\Debug\netcoreapp3.1\Portfolio.Domain.csproj.CopyComplete
+E:\Personal Projects\My Website\Portfolio.Backend\Domain\obj\Debug\netcoreapp3.1\Portfolio.Domain.dll
+E:\Personal Projects\My Website\Portfolio.Backend\Domain\obj\Debug\netcoreapp3.1\Portfolio.Domain.pdb
